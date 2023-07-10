@@ -1,3 +1,2 @@
 # Laptrinhweb-btl
-Thêm sql tên webtruyen rồi import file webtruyen.sql vào
-bỏ mấy file trong thư mục webtruyen vào thẳng folder htdocs luôn 
+This is the last assignment for the course web developing at HCM University of Technology, first semester 2019.
